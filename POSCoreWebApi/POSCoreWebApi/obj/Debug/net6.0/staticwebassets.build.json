@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "o1u+wKEAhO6kg0DL45jW9L5AqgOYSDG+7qfG8VlpFIw=",
+  "Source": "POSCoreWebApi",
+  "BasePath": "_content/POSCoreWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
